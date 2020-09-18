@@ -1,7 +1,11 @@
 1. Write a C++ Program to display Names, Roll No., and grades of 3 students who have appeared in the examination. Declare the class of name, Roll No., and grade. 
 Create an array of class objects. Read and display the contents of the array. 
+i) without using any functions
+ii) using functions for getting and printing data
 
 2. Write a C++ program to declare Struct. Initialize and display contents of member Variables. 
+i) without using any functions
+ii) using functions for getting and printing data
 
 3. Write a C++ program to declare a class. Declare a pointer to the class. Initialize and display the contents of the class member. 
 
